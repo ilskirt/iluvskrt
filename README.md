@@ -1,6 +1,6 @@
 - Yo, I’m @iluvskrt
 - I’m interested in technology and software
-- I’m currently learning how to code to be able to create things
+- I’m currently learning how to code and to be able to create things
 - How to reach me: email - tundew25@yahoo.com
 
 <!---
